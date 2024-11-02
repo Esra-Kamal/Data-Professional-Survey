@@ -1,1 +1,3 @@
  Data Professional Survey portfolio project, that deals with the results of a survey conducted among data professionals, focusing on various aspects such as job titles, average salaries, preferred programming languages, work-life balance, and satisfaction with salary. The goal of this dashboard is to analyze and visualize survey results on average salaries across job titles, favorite programming languages, satisfaction levels with work-life balance and salary, demographic distribution, and the perceived difficulty of tasks among data professionals.
+Query Editing Tool: Mircosoft Excel and Power Query (Microsoft Power BI).
+Visualization Tool: Microsoft Power BI
